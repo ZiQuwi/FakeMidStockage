@@ -1,0 +1,49 @@
+{
+  "premade": {
+    "Apple": {
+      "name": "apple",
+      "assetType": "Fruits",
+      "totalQuantity": 0,
+      "availableQuantity": 0,
+      "specificAttributes": [
+        {
+          "Type": "Apple"
+        },
+        {
+          "Color": "red"
+        }
+      ]
+    },
+    "Strawberry": {
+      "name": "strawberry",
+      "assetType": "Fruits",
+      "totalQuantity": 0,
+      "availableQuantity": 0,
+      "specificAttributes": [
+        {
+          "Type": "Strawberry"
+        },
+        {
+          "Color": "pink"
+        }
+      ]
+    },
+    "Cucumber": {
+      "name": "cucumber",
+      "assetType": "Vegetable",
+      "totalQuantity": 0,
+      "availableQuantity": 0,
+      "specificAttributes": [
+        {
+          "Type": "cucumber"
+        },
+        {
+          "Variety": "Murano F1"
+        },
+        {
+          "Color": "pink"
+        }
+      ]
+    }
+  }
+}
