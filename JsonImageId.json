@@ -1,4 +1,18 @@
 {
-  "id": "50",
-  "image": "tomato"
+  "asset": [
+    {
+      "id": 50,
+      "image": "tomato"
+    },
+    {
+      "id": 48,
+      "image": "apple"
+    }
+  ],
+  "offer":[
+    {
+      "id": 128,
+      "image": "tomato"
+    }
+  ]
 }
