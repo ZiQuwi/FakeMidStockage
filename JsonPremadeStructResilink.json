@@ -2,8 +2,7 @@
   "Apple": {
     "name": "apple",
     "assetType": "Fruits",
-    "totalQuantity": 0,
-    "availableQuantity": 0,
+    "transactionType": "sale/purchase",
     "specificAttributes": [
       {
         "Type": "Apple"
