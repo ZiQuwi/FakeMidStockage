@@ -5,23 +5,18 @@
       "Banana",
       "Apple"
     ],
-    "Variety": {
-      "strawberry": [
+    "Variety": 
+      [
         "Gariguette",
         "Favette",
-        "Belrubi"
-      ],
-      "Banana": [
+        "Belrubi",
         "French",
         "Rhino Horn",
-        "Nendran"
-      ],
-      "Apple": [
+        "Nendran",
         "Granny Smith",
         "Golden Delicious",
         "Royal Gala"
       ]
-    }
   },
   "Vegetable": {
     "Type": [
@@ -29,19 +24,14 @@
       "tomato",
       "cucumber"
     ],
-    "Variety": {
-      "eggplant": [
+    "Variety": 
+      [
         "aswab",
-        "Syngenta"
-      ],
-      "tomato": [
+        "Syngenta",
         "Brandywine",
-        "Mr Stripey"
-      ],
-      "cucumber": [
+        "Mr Stripey",
         "Murano F1",
         "Greengo F1"
       ]
-    }
   }
 }
