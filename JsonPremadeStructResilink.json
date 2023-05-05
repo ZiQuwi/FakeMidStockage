@@ -2,13 +2,16 @@
   "apple": {
     "name": "apple",
     "assetType": "Fruits",
+    "totalQuantity": 100,
     "transactionType": "sale/purchase",
     "specificAttributes": [
       {
-        "Type": "Apple"
+        "name": "Type",
+        "value": "Apple"
       },
       {
-        "Color": "red"
+        "name": "Color",
+        "value": "red"
       }
     ]
   },
@@ -16,13 +19,15 @@
     "name": "strawberry",
     "assetType": "Fruits",
     "totalQuantity": 0,
-    "availableQuantity": 0,
+    "transactionType": "sale/purchase",
     "specificAttributes": [
       {
-        "Type": "Strawberry"
+        "name": "Type",
+        "value": "Strawberry"
       },
       {
-        "Color": "pink"
+        "name": "Color",
+        "value": "pink"
       }
     ]
   },
@@ -30,16 +35,19 @@
     "name": "cucumber",
     "assetType": "Vegetable",
     "totalQuantity": 0,
-    "availableQuantity": 0,
+    "transactionType": "sale/purchase",
     "specificAttributes": [
       {
-        "Type": "cucumber"
+        "name": "Type",
+        "value": "cucumber"
       },
       {
-        "Variety": "Murano F1"
+        "name": "Variety",
+        "value": "Murano F1"
       },
       {
-        "Color": "pink"
+        "name": "Color",
+        "value": "pink"
       }
     ]
   }
