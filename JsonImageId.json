@@ -2,17 +2,17 @@
   "asset": [
     {
       "id": 50,
-      "image": "tomato"
+      "image": "img/tomate.jpeg"
     },
     {
       "id": 48,
-      "image": "apple"
+      "image": "img/apple.jpg"
     }
   ],
   "offer":[
     {
       "id": 128,
-      "image": "tomato"
+      "image": "img/tomate.jpeg"
     }
   ]
 }
