@@ -1,6 +1,95 @@
 {
-  "Serveur" : 
-  {
-    "http://90.84.244.69:10010/"
+  "DNS": "Undefined",
+  "Serveur" : "http://90.84.244.69:10010/",
+  "PremadeStruct": {
+    "apple": {
+      "name": "apple",
+      "assetType": "Fruits",
+      "totalQuantity": 100,
+      "transactionType": "sale/purchase",
+      "specificAttributes": [
+        {
+          "name": "Type",
+          "value": "Apple"
+        },
+        {
+          "name": "Color",
+          "value": "red"
+        }
+      ]
+    },
+    "strawberry": {
+      "name": "strawberry",
+      "assetType": "Fruits",
+      "totalQuantity": 0,
+      "transactionType": "sale/purchase",
+      "specificAttributes": [
+        {
+          "name": "Type",
+          "value": "Strawberry"
+        },
+        {
+          "name": "Color",
+          "value": "pink"
+        }
+      ]
+    },
+    "cucumber": {
+      "name": "cucumber",
+      "assetType": "Vegetable",
+      "totalQuantity": 0,
+      "transactionType": "sale/purchase",
+      "specificAttributes": [
+        {
+          "name": "Type",
+          "value": "cucumber"
+        },
+        {
+          "name": "Variety",
+          "value": "Murano F1"
+        },
+        {
+          "name": "Color",
+          "value": "pink"
+        }
+      ]
+    }
+  },
+  "HelpTyping": {
+    "Fruits": {
+      "Type": [
+        "Strawberry",
+        "Banana",
+        "Apple"
+      ],
+      "Variety": 
+        [
+          "Gariguette",
+          "Favette",
+          "Belrubi",
+          "French",
+          "Rhino Horn",
+          "Nendran",
+          "Granny Smith",
+          "Golden Delicious",
+          "Royal Gala"
+        ]
+    },
+    "Vegetable": {
+      "Type": [
+        "eggplant",
+        "tomato",
+        "cucumber"
+      ],
+      "Variety": 
+        [
+          "aswab",
+          "Syngenta",
+          "Brandywine",
+          "Mr Stripey",
+          "Murano F1",
+          "Greengo F1"
+        ]
+    }
   }
 }
