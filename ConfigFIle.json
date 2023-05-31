@@ -1,6 +1,6 @@
 {
   "DNS": "Undefined",
-  "Serveur" : "http://90.84.244.69:10010/",
+  "Server" : "http://90.84.244.69:10010/",
   "PremadeStruct": {
     "apple": {
       "name": "apple",
