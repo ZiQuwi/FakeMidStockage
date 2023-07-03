@@ -1,6 +1,11 @@
 {
   "DNS": "Undefined",
   "Server" : "http://90.84.244.69:10010/",
+  "Country": {
+    "Algeria" : {},
+    "Maroco" : {},
+    "Egyptia" : {},
+  },
   "PremadeStruct": {
     "apple": {
       "name": "apple",
