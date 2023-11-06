@@ -1,6 +1,6 @@
 {
   "DNS": "Undefined",
-  "Server" : "http://90.84.244.69:10010/",
+  "Server" : "http://10.0.13.38:9990/",
   "Country": {
     "Algeria" : {},
     "Morocco" : {},
